@@ -1,0 +1,29 @@
+# Personal biometric data
+known/
+me*.jpeg
+friend*.png
+friend*.jpeg
+*.npz
+me*.png
+me*.jpg
+me*.jpeg
+friend*.png
+friend*.jpg
+friend*.jpeg
+
+# Personal attendance records
+attendance.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+.venv/
